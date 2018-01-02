@@ -1,1 +1,2 @@
-print "Hola mundoooo!!"
+print "Hola mundoooo!"
+#Imprime un saludo por pantalla
